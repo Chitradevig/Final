@@ -21,5 +21,18 @@ private void method5() {
 }
 private void method6() {
 	System.out.println("added new");
+
 }
+
+
+
+
+private void method7() {
+	System.out.println("again added");
+}
+private void method8() {
+	System.out.println("again added");
+}
+
+
 }
