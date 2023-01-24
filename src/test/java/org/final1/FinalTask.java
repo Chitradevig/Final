@@ -13,4 +13,10 @@ private void method3() {
 	System.out.println("started");
 
 }
+private void method7() {
+	System.out.println("again added");
+}
+private void method8() {
+	System.out.println("again added");
+}
 }
